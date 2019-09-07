@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/amal/.platformio/penv/bin:/home/amal/.platformio/penv:/home/amal/.cargo/bin:/home/amal/.local/bin:/home/amal/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/amal/esp/xtensa-esp32-elf/bin:/opt/mssql-tools/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
